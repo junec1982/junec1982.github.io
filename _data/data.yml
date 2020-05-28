@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: june.castillote@gmail.com
-    phone: '<private>'
+    phone: +private
     website: lazyexchangeadmin.com #do not add http://
     linkedin: junecastillote
     github: junecastillote
@@ -45,143 +45,164 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Detail-oriented IT professional with over 15 years of professional experience.  
+      
+      Experienced in Messaging and Collaboration technologies including Exchange, Skype, SharePoint, SMTP,
+      and cloud-based services like Office 365 and Azure.
+
+      An advocate of automation combined with programming and scripting skills, created several open-source
+      projects geared towards automating mundane and repetitive tasks and processes.
+
+      A freelance writer of technical articles for several website publications.
+      Creating contents related to technology, administration, automation, and how-to guides.
+      You may visit my online articles at [Progress/IpSwitch](https://blog.ipswitch.com/author/june-castillote),
+      [ATA](https://adamtheautomator.com/author/june/), [LazyExchangeAdmin](http://www.lazyexchangeadmin.com/),
+      [4SysOps]()
+
 education:
     - degree: Computer Management Technology
       university: University of Rizal System
       time: 2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
     - role: ITO Service Delivery Consultant
       time: 2013 - Present
       company: DXC Technology, Philippines
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Part of a team as a technical lead of highly technical individuals managing the messaging and collaboration 
+        services of several different organizations in the APJ region.
+          - Server/Application monitoring and maintenance, user management, planning, design and implementation.
+          - Handles high severity and critical incidents, and escalations from frontline BAU support and clients.
+          - Involved in Messaging-related projects – Technical Lead, Design and Implementation Resource.
+          - Meet with client to discuss projects, issues, proposals, and operational status.
+          - Design training modules and conduct technical training.
+          - Process documentation and improvement initiatives.
+          - Document existing systems and processes for reference in BAU support.
+          - Perform Release to Production verifications for new infrastructure/servers/systems to be accepted as part of BAU support.
+          - Create automation and tools for tasks including health checks, scheduled reports, monitoring and other tasks as necessary thru scripting.
+          - Ensure that regular, required reports are generated and submitted which include monthly consumption/billing data, security/email anti-spam report.
+          - Liaise with external vendors for systems or product features not normally supported under BAU.
+          - Perform ad-hoc scripting and coding, when required, using `PowerShell`,`VBS`,`.NET`
+
+        
     - role: Messaging Engineer
       time: 2011 - 2013
       company: ActionLabs IT Services / Strategic Networks, Philippines
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - As a Messaging Engineer, responsible for server monitoring and maintenance, user management, planning, design and implementation.
+          - Handled high severity/critical incident tickets while complying with SLAs and perform Root Cause Analysis.
+          - Involvement in projects which includes Messaging infrastructure.
+          - Meet with clients to discuss projects, issues, proposals, etc.
+          - Conduct user training/orientation for new systems implemented.
+
     - role: Senior Systems Engineer
       time: 2008 - 2010
       company: Trend Micro, Philippines
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: Technical Resolution Specialist
+          - Provided third level support, remote assistance for Trend Micro Enterprise clients in North America Region.
+          - Handled cases dealing with escalations whether technical or procedural in nature.
+          - Simulate cases by replicating the environment in which the clients are having issues with to perform better
+          analysis and data gathering which will then be used to ultimately provide the best possible solution without
+          disturbing the production servers so much in the process.
+          - Aided in deployment, configuration and solutions delivery for Trend Micro’s Enterprise line of products.
+
+    - role: Technical Office, Reports and Analysis Specialist
       time: 2004 - 2008
       company: eTelecare Global Solutions, Philippines
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Provided hardware and software technical support for Dell US customers including LAN/Wireless networking and malware removal.
+          - Gather raw data and generate reports and provide analysis for Agents, Teams, Sites and Program’s performance used for promotions/performance reviews and assessments, and metrics/goals benchmarking.
+          - Designed, developed and implemented an efficient call logs tracking system that determined more time-saving and real time reports generation. Trained users for the use of the said system.
+          - Responsible for plotting employee leave requests based on the analyzed results of projected service levels and ideal workforce.
+          - Maintained accurate organization map tallied with the internal roster used in attrition reports and capacity planning.
+          - Attend client meetings for support updates and daily/weekly performance reviews.
+          - Assisted in management of Level 2 Technicians.
+          - Handled escalations whether policy-related or technical in nature.
+          - Mentored Technical Support Representatives to polish and improve their technical skills for both hardware and software.
+
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Exchange Server Health Report
+        link: "https://github.com/junecastillote/Get-ExchangeHealth"
+        tagline: "An open-source Exchange Server health monitoring utility."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Office 365 Service Monitoring
+        link: "https://github.com/junecastillote/Get-O365HealthReport"
+        tagline: "An open-source PowerShell script that makes use of
+        [Office 365 Service Communications API](https://docs.microsoft.com/en-us/office/office-365-management-api/office-365-service-communications-api-reference)
+        and [Microsoft Graph API](https://docs.microsoft.com/en-us/graph/use-the-api) to monitor Office 365 service and health related events."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: DNS MX Record Monitoring and Reporting
+        link: "https://github.com/junecastillote/Get-MXReport"
+        tagline: "An open-source script used to monitor validity of published MX records."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Office 365 License Availability Reporting
+        link: "https://github.com/junecastillote/LazyExchangeAdmin.SkuMon"
+        tagline: "A PowerShell module used for reporting the Office 365 license availability statistics."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Other Projects
+        link: "https://github.com/junecastillote"
+        tagline: "For all my other projects, please visit my GitHub Profile"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills/Tech &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Exchange
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Skype
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: SharePoint
         level: 60%
 
+      - name: Office 365
+        level: 85%
+
+      - name: Azure
+        level: 60%
+
+      - name: PowerShell
+        level: 90%
+
+      - name: Active Directory
+        level: 80%
+
+      - name: DNS
+        level: 80%
+
+      - name: .NET
+        level: 65%
+      
+      - name: VBS
+        level: 75%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
