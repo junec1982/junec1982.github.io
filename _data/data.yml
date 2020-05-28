@@ -134,8 +134,7 @@ projects:
       - title: Office 365 Service Monitoring
         link: "https://github.com/junecastillote/Get-O365HealthReport"
         tagline: "An open-source PowerShell script that makes use of
-        [Office 365 Service Communications API](https://docs.microsoft.com/en-us/office/office-365-management-api/office-365-service-communications-api-reference)
-        and [Microsoft Graph API](https://docs.microsoft.com/en-us/graph/use-the-api) to monitor Office 365 service and health related events."
+        *Office 365 Service Communications API* and *Microsoft Graph API* to monitor Office 365 service and health related events."
 
       - title: DNS MX Record Monitoring and Reporting
         link: "https://github.com/junecastillote/Get-MXReport"
@@ -204,5 +203,7 @@ skills:
       
       - name: VBS
         level: 75%
+certifications:
+    title: Exchange
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
