@@ -182,13 +182,13 @@ skills:
         level: 70%
 
       - name: SharePoint
-        level: 60%
+        level: 70%
 
       - name: Office 365
         level: 85%
 
       - name: Azure
-        level: 60%
+        level: 65%
 
       - name: PowerShell
         level: 90%
