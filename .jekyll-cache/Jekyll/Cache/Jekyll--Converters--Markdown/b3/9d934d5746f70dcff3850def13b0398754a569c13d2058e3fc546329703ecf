@@ -1,4 +1,4 @@
-I"'<p>Part of a team as a technical lead of highly technical individuals managing the messaging and collaboration 
+I"`<p>Part of a team as a technical lead of highly technical individuals managing the messaging and collaboration 
 services of several different organizations in the APJ region.</p>
 <ul>
   <li>Server/Application monitoring and maintenance, user management, planning, design and implementation.</li>
@@ -12,6 +12,6 @@ services of several different organizations in the APJ region.</p>
   <li>Create automation and tools for tasks including health checks, scheduled reports, monitoring and other tasks as necessary thru scripting.</li>
   <li>Ensure that regular, required reports are generated and submitted which include monthly consumption/billing data, security/email anti-spam report.</li>
   <li>Liaise with external vendors for systems or product features not normally supported under BAU.</li>
-  <li>Perform ad-hoc scripting and coding, when required, using <code class="highlighter-rouge">PowerShell</code>,<code class="highlighter-rouge">VBS</code>,<code class="highlighter-rouge">.NET</code></li>
+  <li>Perform ad-hoc scripting and coding, when required, using <code class="language-plaintext highlighter-rouge">PowerShell</code>,<code class="language-plaintext highlighter-rouge">VBS</code>,<code class="language-plaintext highlighter-rouge">.NET</code></li>
 </ul>
 :ET
