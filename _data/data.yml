@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: june.castillote@gmail.com
     phone: +private
-    website: lazyexchangeadmin.com #do not add http://
+    website: lazyexchangeadmin.cyou #do not add http://
     linkedin: junecastillote
     github: junecastillote
     telegram: # add your nickname without '@' sign
@@ -24,7 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-  
+
     languages:
       - idiom: Filipino
         level: Native
@@ -45,8 +45,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Detail-oriented IT professional with over 15 years of professional experience.  
-      
+      Detail-oriented IT professional with over 15 years of professional experience.
+
       Experienced in Messaging and Collaboration technologies including Exchange, Skype, SharePoint, SMTP,
       and cloud-based services like Office 365 and Azure.
 
@@ -56,20 +56,20 @@ career-profile:
       A freelance writer of technical articles for several website publications.
       Creating contents related to technology, administration, automation, and how-to guides.
       You may visit my online articles at <a href="https://blog.ipswitch.com/author/june-castillote" target="_blank">Progress</a>,
-      <a href="https://adamtheautomator.com/author/june/" target="_blank">ATA</a>, <a href="https://www.lazyexchangeadmin.com/" target="_blank">LazyExchangeAdmin</a>
+      <a href="https://adamtheautomator.com/author/june/" target="_blank">ATA Learning</a>, <a href="https://www.lazyexchangeadmin.cyou/" target="_blank">LazyExchangeAdmin</a>
 
 education:
     - degree: Computer Management Technology
       university: University of Rizal System
       time: 2004
       details: |
-        
+
 experiences:
     - role: ITO Service Delivery Consultant
       time: 2013 - Present
       company: DXC Technology, Philippines
       details: |
-        Part of a team as a technical lead of highly technical individuals managing the messaging and collaboration 
+        Part of a team as a technical lead of highly technical individuals managing the messaging and collaboration
         services of several different organizations in the APJ region.
           - Server/Application monitoring and maintenance, user management, planning, design and implementation.
           - Handles high severity and critical incidents, and escalations from frontline BAU support and clients.
@@ -84,7 +84,7 @@ experiences:
           - Liaise with external vendors for systems or product features not normally supported under BAU.
           - Perform ad-hoc scripting and coding, when required, using `PowerShell`,`VBS`,`.NET`
 
-        
+
     - role: Messaging Engineer
       time: 2011 - 2013
       company: ActionLabs IT Services / Strategic Networks, Philippines
@@ -124,16 +124,19 @@ experiences:
 projects:
     title: Projects
     intro: >
-      
+
     assignments:
       - title: Exchange Server Health Report
         link: "https://github.com/junecastillote/Get-ExchangeHealth"
         tagline: "An open-source Exchange Server health monitoring utility."
 
-      - title: Office 365 Service Monitoring
-        link: "https://github.com/junecastillote/Get-O365HealthReport"
-        tagline: "An open-source PowerShell script that makes use of
-        *Office 365 Service Communications API* and *Microsoft Graph API* to monitor Office 365 service and health related events."
+      - title: Microsoft 365 Service Health Monitoring
+        link: "https://github.com/junecastillote/MS365HealthReport"
+        tagline: "An open-source PowerShell script that makes use of the *Microsoft Graph API* to monitor Office 365 service and health related events."
+
+      - title: Microsoft 365 Usage Reports
+        link: "https://github.com/junecastillote/Ms365UsageReport"
+        tagline: "Generates a usage summary report of Licenses, Users, Exchange Online, SharePoint Online, OneDrive for Business, Skype for Business, Teams, and Yammer."
 
       - title: DNS MX Record Monitoring and Reporting
         link: "https://github.com/junecastillote/Get-MXReport"
@@ -147,27 +150,19 @@ projects:
         link: "https://github.com/junecastillote"
         tagline: "For all my other projects, please visit my GitHub Profile"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro:
+    papers:
+      - title: "The ATA Guide to Managing (And Scripting) Active Directory on the Command Line: Users and Computers"
+        link: "https://leanpub.com/users-and-computers"
+        authors: June Castillote, ATA Learning
+        conference:
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "PowerShell: From Zero to Deep Dive with Function Parameters"
+        link: "https://leanpub.com/PSfromzerotodeepdive"
+        authors: June Castillote, ATA Learning
+        conference:
 
 skills:
     title: Skills/Tech &amp; Proficiency
@@ -199,7 +194,7 @@ skills:
 
       - name: .NET
         level: 65%
-      
+
       - name: VBS
         level: 75%
 certifications:
