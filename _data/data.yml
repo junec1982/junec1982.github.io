@@ -53,10 +53,7 @@ career-profile:
       An advocate of automation combined with programming and scripting skills, created several open-source
       projects geared towards automating mundane and repetitive tasks and processes.
 
-      A freelance writer of technical articles for several website publications.
-      Creating contents related to technology, administration, automation, and how-to guides.
-      You may visit my online articles at <a href="https://blog.ipswitch.com/author/june-castillote" target="_blank">Progress</a>,
-      <a href="https://adamtheautomator.com/author/june/" target="_blank">ATA Learning</a>, <a href="https://www.lazyexchangeadmin.cyou/" target="_blank">LazyExchangeAdmin</a>
+      A freelance technical article writer for several website publications. I love to write! I create content related to technology, systems administration, automation, and how-to guides.
 
 education:
     - degree: Computer Management Technology
@@ -71,6 +68,7 @@ experiences:
       details: |
         Part of a team as a technical lead of highly technical individuals managing the messaging and collaboration
         services of several different organizations in the APJ region.
+          - Overall team technical lead for Microsoft 365 and Messaging.
           - Server/Application monitoring and maintenance, user management, planning, design and implementation.
           - Handles high severity and critical incidents, and escalations from frontline BAU support and clients.
           - Involved in Messaging-related projects – Technical Lead, Design and Implementation Resource.
@@ -164,6 +162,26 @@ publications:
         authors: June Castillote, ATA Learning
         conference:
 
+      - title: "The IT Bros (Online Articles)"
+        link: "https://theitbros.com/author/junecastillote"
+        authors: June Castillote
+        conference:
+
+      - title: "Adam the Automator (Online Articles)"
+        link: "https://adamtheautomator.com/author/june"
+        authors: June Castillote
+        conference:
+
+      - title: "Progress / IPSwitch (Online Articles)"
+        link: "https://www.ipswitch.com/blog/author/june-castillote"
+        authors: June Castillote
+        conference:
+
+      - title: "Lazy Exchange Admin (Online Articles)"
+        link: "https://lazyexchangeadmin.cyou"
+        authors: June Castillote
+        conference:
+
 skills:
     title: Skills/Tech &amp; Proficiency
 
@@ -171,7 +189,7 @@ skills:
       - name: Exchange
         level: 90%
 
-      - name: Skype
+      - name: Teams
         level: 70%
 
       - name: SharePoint
@@ -181,7 +199,7 @@ skills:
         level: 90%
 
       - name: Azure
-        level: 70%
+        level: 80%
 
       - name: PowerShell
         level: 90%
