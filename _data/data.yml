@@ -188,7 +188,7 @@ skills:
         level: 90%
 
       - name: Teams
-        level: 70%
+        level: 80%
 
       - name: SharePoint
         level: 70%
@@ -197,22 +197,17 @@ skills:
         level: 90%
 
       - name: Azure
-        level: 80%
+        level: 70%
 
       - name: PowerShell
         level: 90%
 
       - name: Active Directory
-        level: 80%
+        level: 70%
 
       - name: DNS
-        level: 80%
+        level: 70%
 
-      - name: .NET
-        level: 65%
-
-      - name: VBS
-        level: 75%
 certifications:
     title: Exchange
 footer: >
