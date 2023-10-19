@@ -135,7 +135,7 @@ projects:
         tagline: "Generates a usage summary report of Licenses, Users, Exchange Online, SharePoint Online, OneDrive for Business, Skype for Business, Teams, and Yammer."
 
       - title: DNS MX Record Monitoring and Reporting
-        link: "https://github.com/junecastillote/Get-MXReport"
+        link: "https://github.com/junecastillote/PsMxRecordReport"
         tagline: "An open-source script used to monitor validity of published MX records."
 
       - title: Microsoft 365 License Availability Reporting
