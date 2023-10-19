@@ -138,8 +138,8 @@ projects:
         link: "https://github.com/junecastillote/Get-MXReport"
         tagline: "An open-source script used to monitor validity of published MX records."
 
-      - title: Office 365 License Availability Reporting
-        link: "https://github.com/junecastillote/LazyExchangeAdmin.SkuMon"
+      - title: Microsoft 365 License Availability Reporting
+        link: "https://github.com/junecastillote/PsSkuMon365"
         tagline: "A PowerShell module used for reporting the Office 365 license availability statistics."
 
       - title: Other Projects
