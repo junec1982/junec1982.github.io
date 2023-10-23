@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Tito Castillote Jr
+    name: June Castillote
     tagline: Office 365, Messaging & Collaboration Engineer
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: june.castillote@gmail.com
-    phone: +63 998 9636370
+    phone: +private
     website: lazyexchangeadmin.cyou #do not add http://
     linkedin: junecastillote
     github: junecastillote
